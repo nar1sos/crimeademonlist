@@ -704,12 +704,12 @@
             "Cadrega City",
             "Digital Descent",
             "Artificial Ascent",
+            "Carnage Mode",
             "Reaper Lair",
             {
                 "levelName": "RUST",
                 "percent": 68
-            },
-            "Carnage Mode"
+            }
         ],
         "verified": [
             "Reaper Lair"
