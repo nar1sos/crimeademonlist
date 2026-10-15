@@ -2518,5 +2518,14 @@
         "thumbnail": "https://i.ytimg.com/vi/BkNKOsDQuME/maxresdefault.jpg",
         "percentToQualify": 100,
         "records": []
+    },
+    {
+        "name": "Retribution",
+        "author": "EtVil",
+        "verifier": "cxn",
+        "ytid": "",
+        "thumbnail": "https://i.ytimg.com/vi/UycmAVCp4y4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBqrjrmp6jbq1x1pmh-LaC331-0RQ",
+        "percentToQualify": 100,
+        "records": []
     }
 ]
