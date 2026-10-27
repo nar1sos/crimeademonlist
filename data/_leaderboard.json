@@ -64,7 +64,12 @@
         "name": "Zoink",
         "country": "us",
         "avatar": "https://geometrydash.wiki.gg/images/thumb/Zoink_Furry.png/300px-Zoink_Furry.png?78deb8",
-        "records": [],
+        "records": [
+            {
+                "levelName": "Mika",
+                "percent": 69
+            }
+        ],
         "verified": []
     }
 ]
