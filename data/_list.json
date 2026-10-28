@@ -1,5 +1,14 @@
 [
     {
+        "name": "Acheron",
+        "author": "Unknown",
+        "verifier": "teraaa",
+        "ytid": "",
+        "thumbnail": "https://i.ytimg.com/vi/B3Gfu4J4Wgc/maxresdefault.jpg",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
         "name": "Mika",
         "author": "Unknown",
         "verifier": "Tunex",
