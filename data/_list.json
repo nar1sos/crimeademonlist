@@ -9,6 +9,15 @@
         "records": []
     },
     {
+        "name": "VSC",
+        "author": "Unknown",
+        "verifier": "Trick",
+        "ytid": "",
+        "thumbnail": "https://i.ytimg.com/vi/ewlMbTR-c_w/maxresdefault.jpg",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
         "name": "Acheron",
         "author": "Unknown",
         "verifier": "teraaa",
