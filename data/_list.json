@@ -1,19 +1,19 @@
 [
     {
-        "name": "Acheron",
-        "author": "Unknown",
-        "verifier": "teraaa",
-        "ytid": "",
-        "thumbnail": "https://i.ytimg.com/vi/B3Gfu4J4Wgc/maxresdefault.jpg",
-        "percentToQualify": 100,
-        "records": []
-    },
-    {
         "name": "Mika",
         "author": "Unknown",
         "verifier": "Tunex",
         "ytid": "",
         "thumbnail": "https://i.ytimg.com/vi/KBK-dWcRz4E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBs7mZF7450byPZ2xA4fS36lVUBhg",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
+        "name": "Acheron",
+        "author": "Unknown",
+        "verifier": "teraaa",
+        "ytid": "",
+        "thumbnail": "https://i.ytimg.com/vi/B3Gfu4J4Wgc/maxresdefault.jpg",
         "percentToQualify": 100,
         "records": []
     }
