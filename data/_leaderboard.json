@@ -68,7 +68,9 @@
         "name": "Zoink",
         "country": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ty2zrNNZNtfQ0V0v15DHzkn2q_MfbPE9JvJg4oGOFg&s=10",
         "avatar": "https://geometrydash.wiki.gg/images/thumb/Zoink_Furry.png/300px-Zoink_Furry.png?78deb8",
-        "records": [],
+        "records": [
+            "Mika"
+        ],
         "verified": []
     },
     {
