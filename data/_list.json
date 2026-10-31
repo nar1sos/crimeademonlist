@@ -9,6 +9,15 @@
         "records": []
     },
     {
+        "name": "Kyouki",
+        "author": "Unknown",
+        "verifier": "a6",
+        "ytid": "",
+        "thumbnail": "https://i.ytimg.com/vi/KDa5c0CJTHs/sddefault.jpg",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
         "name": "Thinking Space II",
         "author": "Unknown",
         "verifier": "Doggie",
