@@ -136,16 +136,18 @@
         "avatar": "https://i.pinimg.com/1200x/46/8b/da/468bda2c254d6be061f076dc57ffd5ca.jpg",
         "records": [
             "OROCHI",
+            "Kyouki",
             "ANTARCTIC LIGHTS",
             "Thinking Space II Legacy",
             "Avernus",
             "Mika",
             "VSC",
             "Acheron",
-            "Thinking Space II",
-            "Kyouki"
+            "Thinking Space II"
         ],
-        "verified": []
+        "verified": [
+            "Kyouki"
+        ]
     },
     {
         "user": "wPopoff",
