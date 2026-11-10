@@ -9,20 +9,20 @@
         "records": []
     },
     {
-        "name": "Slaughterhouse",
-        "author": "Unknown",
-        "verifier": "Doggie",
-        "ytid": "",
-        "thumbnail": "https://thumbnails.demonlist.org/classic/1748.webp",
-        "percentToQualify": 100,
-        "records": []
-    },
-    {
         "name": "Tidal Wave",
         "author": "Unknown",
         "verifier": "Zoink",
         "ytid": "",
         "thumbnail": "https://thumbnails.demonlist.org/classic/2660.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
+        "name": "Slaughterhouse",
+        "author": "Unknown",
+        "verifier": "Doggie",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/1748.webp",
         "percentToQualify": 100,
         "records": []
     },
