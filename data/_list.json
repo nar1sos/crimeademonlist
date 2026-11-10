@@ -18,20 +18,20 @@
         "records": []
     },
     {
-        "name": "OROCHI",
-        "author": "Unknown",
-        "verifier": "ShikChel",
-        "ytid": "",
-        "thumbnail": "https://i.ytimg.com/vi/-rQ_vxf1o3c/maxresdefault.jpg",
-        "percentToQualify": 100,
-        "records": []
-    },
-    {
         "name": "Kyouki",
         "author": "Unknown",
         "verifier": "a6",
         "ytid": "",
         "thumbnail": "https://i.ytimg.com/vi/KDa5c0CJTHs/sddefault.jpg",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
+        "name": "OROCHI",
+        "author": "Unknown",
+        "verifier": "ShikChel",
+        "ytid": "",
+        "thumbnail": "https://i.ytimg.com/vi/-rQ_vxf1o3c/maxresdefault.jpg",
         "percentToQualify": 100,
         "records": []
     },
