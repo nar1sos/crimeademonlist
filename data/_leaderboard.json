@@ -151,7 +151,9 @@
         "name": "nickname",
         "country": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB38p7TY5_nedshEtRg9inqqIHHG4yryj2ruRn2eF4HaHekoodVBbpLtok3STz8RukLolPJV7XHOXmJttvPvzeYryWP_4NJPLxSDMKQ&s=10",
         "avatar": "https://yt3.googleusercontent.com/d0CnBMns8VZDzujQduDrSVcmwfNjjSnOTNlJ9z-5GRp6PX5g6TDqBRbNIJMmUUSHuORjbqxvqP0=s900-c-k-c0x00ffffff-no-rj",
-        "records": [],
+        "records": [
+            "Silent Circles"
+        ],
         "verified": []
     }
 ]
