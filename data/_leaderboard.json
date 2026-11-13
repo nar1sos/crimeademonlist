@@ -56,7 +56,11 @@
             "Mika",
             "VSC",
             "Acheron",
-            "Acheron"
+            "Acheron",
+            {
+                "levelName": "UNNERFED GRIEF",
+                "percent": 48
+            }
         ],
         "verified": [
             "Acheron"
