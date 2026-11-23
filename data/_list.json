@@ -1,37 +1,10 @@
 [
     {
-        "name": "UNNERFED GRIEF",
-        "author": "Unknown",
-        "verifier": "wPopoff",
-        "ytid": "",
-        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1NPf3au96UnrDDcXDpKrwnclVopA0Tr98FL3Zx89399dnvhIRNbQCJU&s=10",
-        "percentToQualify": 100,
-        "records": []
-    },
-    {
-        "name": "Silent Circles",
-        "author": "Unknown",
-        "verifier": "Skikchel",
-        "ytid": "",
-        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7WgjdkByBhpKA1AQtc5fKM-PXZdp5M9m-bnOcGbCUJwMizzN47xUnzE&s=10",
-        "percentToQualify": 100,
-        "records": []
-    },
-    {
-        "name": "GRIEF",
-        "author": "Unknown",
-        "verifier": "wPopoff",
-        "ytid": "",
-        "thumbnail": "https://thumbnails.demonlist.org/classic/3442.webp",
-        "percentToQualify": 100,
-        "records": []
-    },
-    {
-        "name": "Tidal Wave",
+        "name": "Defeated Circles",
         "author": "Unknown",
         "verifier": "Zoink",
         "ytid": "",
-        "thumbnail": "https://thumbnails.demonlist.org/classic/2660.webp",
+        "thumbnail": "https://i.ytimg.com/vi/Y82vmzIDrNc/maxresdefault.jpg",
         "percentToQualify": 100,
         "records": []
     },
@@ -54,6 +27,24 @@
         "records": []
     },
     {
+        "name": "Thinking Space II",
+        "author": "Unknown",
+        "verifier": "Doggie",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/3226.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
+        "name": "Avernus",
+        "author": "Unknown",
+        "verifier": "Trick",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/2659.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
         "name": "Kyouki",
         "author": "Unknown",
         "verifier": "a6",
@@ -72,15 +63,6 @@
         "records": []
     },
     {
-        "name": "Thinking Space II",
-        "author": "Unknown",
-        "verifier": "Doggie",
-        "ytid": "",
-        "thumbnail": "https://thumbnails.demonlist.org/classic/3226.webp",
-        "percentToQualify": 100,
-        "records": []
-    },
-    {
         "name": "ANTARCTIC LIGHTS",
         "author": "Unknown",
         "verifier": "ShikChel",
@@ -95,15 +77,6 @@
         "verifier": "Doggie",
         "ytid": "",
         "thumbnail": "https://thumbnails.demonlist.org/classic/3351.webp",
-        "percentToQualify": 100,
-        "records": []
-    },
-    {
-        "name": "Avernus",
-        "author": "Unknown",
-        "verifier": "Trick",
-        "ytid": "",
-        "thumbnail": "https://thumbnails.demonlist.org/classic/2659.webp",
         "percentToQualify": 100,
         "records": []
     },
