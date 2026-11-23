@@ -5,6 +5,7 @@ import Login from './pages/login.js';
 
 const routes = [
     { path: '/list', component: List },        // Страница списка уровней доступна по "/list"
+    { path: '/list2', component: List2 },        // Страница списка уровней доступна по "/list"
     { path: '/leaderboard', component: Leaderboard },
     { path: '/login', component: Login }
 ];
