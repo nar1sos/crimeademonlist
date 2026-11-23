@@ -1,2 +1,65 @@
 [
+    {
+        "name": "The Golden",
+        "author": "Unknown",
+        "verifier": "Doggie",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/2236.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
+        "name": "Flamewall",
+        "author": "Unknown",
+        "verifier": "wPopoff",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/3199.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
+        "name": "Defeated Circles",
+        "author": "Unknown",
+        "verifier": "Zoink",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/3096.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
+        "name": "Green Bullet",
+        "author": "Unknown",
+        "verifier": "nickname",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/3409.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
+        "name": "Tartarus",
+        "author": "Unknown",
+        "verifier": "teraaa",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/1754.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
+        "name": "Aquamarine",
+        "author": "Unknown",
+        "verifier": "Bacon",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/3109.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
+        "name": "poocubed",
+        "author": "Unknown",
+        "verifier": "Shikchel",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/2050.webp",
+        "percentToQualify": 100,
+        "records": []
+    }
 ]
