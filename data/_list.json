@@ -1,5 +1,14 @@
 [
     {
+        "name": "Aquamarine",
+        "author": "Unknown",
+        "verifier": "Bacon",
+        "ytid": "",
+        "thumbnail": "https://i.ytimg.com/vi/AwHHvD5E7Tc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJxaWU-z6MsU1cOOL__z1QrYQblg",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
         "name": "Defeated Circles",
         "author": "Unknown",
         "verifier": "Zoink",
