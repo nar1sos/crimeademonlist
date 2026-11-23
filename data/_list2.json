@@ -1,19 +1,19 @@
 [
     {
-        "name": "The Golden",
-        "author": "Unknown",
-        "verifier": "Doggie",
-        "ytid": "",
-        "thumbnail": "https://thumbnails.demonlist.org/classic/2236.webp",
-        "percentToQualify": 100,
-        "records": []
-    },
-    {
         "name": "Flamewall",
         "author": "Unknown",
         "verifier": "wPopoff",
         "ytid": "",
         "thumbnail": "https://thumbnails.demonlist.org/classic/3199.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
+        "name": "The Golden",
+        "author": "Unknown",
+        "verifier": "Doggie",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/2236.webp",
         "percentToQualify": 100,
         "records": []
     },
