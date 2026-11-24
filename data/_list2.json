@@ -1,5 +1,14 @@
 [
     {
+        "name": "GRIEF",
+        "author": "Unknown",
+        "verifier": "Bacon , Dewbss , Doggie",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/3442.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
         "name": "Flamewall",
         "author": "Unknown",
         "verifier": "wPopoff",
